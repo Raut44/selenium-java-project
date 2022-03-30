@@ -11,7 +11,7 @@ import javax.swing.*;
 import java.util.*;
 import java.lang.*;
 import java.util.concurrent.TimeUnit;
-
+//writing java methods
 public class method {
     WebDriver driver;
 
