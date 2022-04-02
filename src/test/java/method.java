@@ -31,8 +31,8 @@ public class method {
         String c="raj",d="raj";
         String name= new String("india");
         String country= new String("india");
-        System.out.println("the length of variable c is "+c.length());
-        System.out.println("the length of variable d is "+d.length());
+      /*  System.out.println("the length of variable c is "+c.length());
+        System.out.println("the length of variable d is "+d.length());*/
         System.out.println(name==country);
         System.out.println(name.hashCode());
         System.out.println(country.hashCode());
