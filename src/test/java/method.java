@@ -28,7 +28,7 @@ public class method {
         }
     }
     public void string(){
-        String c="raj",d="raj";
+        String c="sachin",d="rohit";
         String name= new String("india");
         String country= new String("india");
       /*  System.out.println("the length of variable c is "+c.length());
