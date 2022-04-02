@@ -18,7 +18,7 @@ public class method {
     public void calculator(int x,int y){
         try {
 
-            int a = 12, b = 5, c = 50, result, addition;
+            int a = 1, b = 60, c = 5, result, addition;
             addition = x + y;
             result = a * b;
             System.out.println("multi.result is " + result);
