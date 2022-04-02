@@ -18,7 +18,7 @@ public class method {
     public void calculator(int x,int y){
         try {
 
-            int a = 12, b = 5, c = 50, result, addition;
+            int a = 1, b = 60, c = 5, result, addition;
             addition = x + y;
             result = a * b;
             System.out.println("multi.result is " + result);
@@ -31,8 +31,8 @@ public class method {
         String c="raj",d="raj";
         String name= new String("india");
         String country= new String("india");
-        System.out.println("the length of variable c is "+c.length());
-        System.out.println("the length of variable d is "+d.length());
+      /*  System.out.println("the length of variable c is "+c.length());
+        System.out.println("the length of variable d is "+d.length());*/
         System.out.println(name==country);
         System.out.println(name.hashCode());
         System.out.println(country.hashCode());
