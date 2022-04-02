@@ -113,6 +113,7 @@ public class method {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\JOHN\\Desktop\\jars\\chromedriver_win32\\chromedriver.exe");
         driver=new ChromeDriver();
         driver.get("https://courses.letskodeit.com/practice");
+        System.out.println("launching the application");
         driver.manage().window().maximize();
        // driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         WebDriverWait wait=new WebDriverWait(driver,20);
